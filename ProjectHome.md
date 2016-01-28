@@ -1,0 +1,1 @@
+Wisdom Toolkit is a PHP toolkit for easy programming and rapid system development, it was thought for integrate web 2.0 tools, as Google Maps, Charts.
